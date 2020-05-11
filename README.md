@@ -11,3 +11,5 @@ _Care for NullPointerException_
 #### Day 8 : Bruteforce
 #### Day 9 : Factorisation
 #### Day 10 : Indegree & outdegree 
+#### Day 11 : Recursion | DFS 
+_take care of all terminating conditions of the rcursive call_
