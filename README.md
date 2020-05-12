@@ -13,3 +13,4 @@ _Care for NullPointerException_
 #### Day 10 : Indegree & outdegree 
 #### Day 11 : Recursion | DFS 
 _take care of all terminating conditions of the rcursive call_
+#### Day 11 : XOR properties
