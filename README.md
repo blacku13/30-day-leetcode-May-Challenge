@@ -1,4 +1,5 @@
 # 30-day-leetcode-May-Challenge
+(R) = Need Revision
 #### Day 1 : Binary Search
 `(l+r)/2` can cause overflow and result in infinite loop . Prefer  `l+(r-l)/2` .
 #### Day 2 : Hashing
@@ -14,3 +15,4 @@ _Care for NullPointerException_
 #### Day 11 : Recursion | DFS 
 _take care of all terminating conditions of the rcursive call_
 #### Day 12 : XOR properties
+#### Day 13 : Stack (R)
