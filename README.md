@@ -16,3 +16,6 @@ _Care for NullPointerException_
 _take care of all terminating conditions of the rcursive call_
 #### Day 12 : XOR properties
 #### Day 13 : Stack (R)
+#### Day 14 : Trie (R)
+[Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
+
