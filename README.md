@@ -20,4 +20,6 @@ _take care of all terminating conditions of the rcursive call_
 [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 #### Day 15 : Circular Kadane's Algorithm (R)
 [Practice](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+#### Day 16 : Linked List (four Pointers) (R)
+[Practice](https://leetcode.com/problems/odd-even-linked-list/)
 
