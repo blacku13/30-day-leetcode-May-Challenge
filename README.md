@@ -23,3 +23,4 @@ _take care of all terminating conditions of the rcursive call_
 #### Day 16 : Linked List (four Pointers) (R)
 [Practice](https://leetcode.com/problems/odd-even-linked-list/)
 #### Day 17 : Pattern Matching | Sliding Window | Hashing
+#### Day 18 : Pattern Matching | Sliding Window | Hashing
