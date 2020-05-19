@@ -16,13 +16,9 @@ _Care for NullPointerException_
 _take care of all terminating conditions of the rcursive call_
 #### Day 12 : XOR properties
 #### Day 13 : Stack (R)
-#### Day 14 : Trie (R)
-[Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
-#### Day 15 : Circular Kadane's Algorithm (R)
-[Practice](https://leetcode.com/problems/maximum-sum-circular-subarray/)
-#### Day 16 : Linked List (four Pointers) (R)
-[Practice](https://leetcode.com/problems/odd-even-linked-list/)
+#### Day 14 : Trie (R) [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
+#### Day 15 : Circular Kadane's Algorithm (R) [Practice](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+#### Day 16 : Linked List (four Pointers) (R) [Practice](https://leetcode.com/problems/odd-even-linked-list/)
 #### Day 17 : Pattern Matching | Sliding Window | Hashing
 #### Day 18 : Pattern Matching | Sliding Window | Hashing
-#### Day 19 : Stack (R)
-[Practice](https://leetcode.com/problems/online-stock-span/)
+#### Day 19 : Stack (R) [Practice](https://leetcode.com/problems/online-stock-span/)
