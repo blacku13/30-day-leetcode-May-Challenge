@@ -22,3 +22,4 @@ _take care of all terminating conditions of the rcursive call_
 #### Day 17 : Pattern Matching | Sliding Window | Hashing
 #### Day 18 : Pattern Matching | Sliding Window | Hashing
 #### Day 19 : Stack (R) [Practice](https://leetcode.com/problems/online-stock-span/)
+#### Day 20 : Inorder traversal (R) [Practice](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
