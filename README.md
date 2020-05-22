@@ -24,3 +24,4 @@ _take care of all terminating conditions of the rcursive call_
 #### Day 19 : Stack (R) [Practice](https://leetcode.com/problems/online-stock-span/)
 #### Day 20 : Inorder traversal (R) [Practice](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 #### Day 21 : DP (R) [Practice](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
+#### Day 22 : PriorityQueue(MaxHeap) | Hashing
