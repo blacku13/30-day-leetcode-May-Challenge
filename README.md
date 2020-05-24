@@ -26,3 +26,4 @@ _take care of all terminating conditions of the rcursive call_
 #### Day 21 : DP (R) [Practice](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 #### Day 22 : PriorityQueue(MaxHeap) | Hashing
 #### Day 23 : logical
+#### Day 24 : BST logic
