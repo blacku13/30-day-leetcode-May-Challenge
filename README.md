@@ -27,3 +27,5 @@ _take care of all terminating conditions of the rcursive call_
 #### Day 22 : PriorityQueue(MaxHeap) | Hashing
 #### Day 23 : logical
 #### Day 24 : BST logic
+#### Day 25 : DP (similar to LCS) (R)
+#### Day 26 : Hashing
