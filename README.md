@@ -7,7 +7,7 @@
 #### Day 4 : Decimal to binary and bit manipulation
 #### Day 5 : Hashing
 #### Day 6 : counting | hashing | sorting
-#### Day 7 : Level order traversal | Recursion (R)
+#### Day 7 : Level order traversal | Recursion (R)  [Practice](https://leetcode.com/problems/cousins-in-binary-tree/)
 _Care for NullPointerException_
 #### Day 8 : Bruteforce
 #### Day 9 : Factorisation
@@ -15,7 +15,7 @@ _Care for NullPointerException_
 #### Day 11 : Recursion | DFS 
 _take care of all terminating conditions of the rcursive call_
 #### Day 12 : XOR properties
-#### Day 13 : Stack (R)
+#### Day 13 : Stack (R)  [Practice](https://leetcode.com/problems/remove-k-digits/)
 #### Day 14 : Trie (R) [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 #### Day 15 : Circular Kadane's Algorithm (R) [Practice](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 #### Day 16 : Linked List (four Pointers) (R) [Practice](https://leetcode.com/problems/odd-even-linked-list/)
@@ -27,5 +27,5 @@ _take care of all terminating conditions of the rcursive call_
 #### Day 22 : PriorityQueue(MaxHeap) | Hashing
 #### Day 23 : logical
 #### Day 24 : BST logic
-#### Day 25 : DP (similar to LCS) (R)
+#### Day 25 : DP (similar to LCS) (R)  [Practice](https://leetcode.com/problems/uncrossed-lines/)
 #### Day 26 : Hashing
